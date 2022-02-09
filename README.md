@@ -1,6 +1,6 @@
 # All credits go to Enzo Ustariz whose course is available on Udemy : "coding 10 projects with React".
 
-this project is deployed at : [React-spring](react-animation-enzo-udemy-cursus.vercel.app)
+this project is deployed at : [React-spring](react-animation-enzo-udemy-cursus.vercel.app) <br>
 the objective of this exercise was to learn how to use React-spring with animated, useTrail, useRef, useTransition, React way point
 
 ## Getting Started with Create React App
